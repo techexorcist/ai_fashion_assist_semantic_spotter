@@ -1,0 +1,1 @@
+ai_fashion_assist_github_link -> https://github.com/techexorcist/ai_fashion_assist_semantic_spotter
